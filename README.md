@@ -5,11 +5,6 @@
 <h1>osTicket - Post-Install Configuration</h1>
 This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
 
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -19,14 +14,6 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
-
-<h2>Post-Install Configuration Objectives</h2>
-
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
 
 <h2>Tutorial Steps</h2>
 <h3> Step 1: Configure Roles </h3> First, we are going to create a "Supreme Admin" role, and give this role full access. To do this from the Admin Panel we are going to "Agents", then "Roles", and "Add New Role". Enter the name "Supreme Admin". In Permissions, you are given different areas that you can assign permissions to this role. For this role we are going to check every permission, making this a role that can essentially do everything.
