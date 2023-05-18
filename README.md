@@ -53,7 +53,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/GFUOmmu.png" height="80%" width="80%" alt="New Users"/>
 </p>
 <p>
-<h3> Step 7: Configure SLAs </h3> The purpose for the Service Level Agreement is to provide a length of time of which the help desk administrator expects the tickets to be closed. So we will do this next. Go back to the "Admin Panel" and navigate to "Manage", and "SLA" where we will create 3 SLA plans. Click "Add New SLA Plan", naming it "SEV A", a grace period of "1" (hours), and schedule of "24/7". This means that at any time a ticket comes in, it has to be resolved in 1 hour. Next make two more SLAs, one called "SEV B", a grace period of "4" (hours), schedule of "24/7", and finally "SEV C", grace period of "8" (hours), schedule "Monday-Friday".
+<h3> Step 7: Configure SLAs </h3> The purpose for the Service Level Agreement is to prioritize requests and also provide a length of time in which the help desk administrator expects the tickets to be resolved. So we will do this next. Go back to the "Admin Panel" and navigate to "Manage", and "SLA" where we will create 3 SLA plans. Click "Add New SLA Plan", naming it "SEV A", a grace period of "1" (hours), and schedule of "24/7". This means that at any time a ticket comes in, it has to be resolved in 1 hour. Next make two more SLAs, one called "SEV B", a grace period of "4" (hours), schedule of "24/7", and finally "SEV C", grace period of "8" (hours), schedule "Monday-Friday".
 </p>
 <br />
 <img src="https://i.imgur.com/pnthCaA.png" height="80%" width="80%" alt="SLAs"/>
@@ -67,4 +67,4 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
 <br />
 <br/>
-<h2> That completes this project. You have now learned how to set up and configure osTicket! </h2>
+<h2> That completes the set up and configuration of osTicket! </h2>
