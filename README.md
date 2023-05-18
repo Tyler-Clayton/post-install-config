@@ -35,7 +35,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/P0wKPVo.png" height="80%" width="80%" alt="Level II Support"/>
 </p>
 <p>
-<h3> Step 4: Allow Anyone To Creat Tickets </h3> To do this in the Admin Panel, navigate to "Settings", "Users", "Settings", and uncheck "Require registration and login to create tickets".
+<h3> Step 4: Allow Anyone To Create Tickets </h3> To do this in the Admin Panel, navigate to "Settings", "Users", "Settings", and uncheck "Require registration and login to create tickets".
 </p>
 <br />
 <img src="https://i.imgur.com/rzXZ60d.png" height="80%" width="80%" alt="Anyone can create"/>
@@ -47,7 +47,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/trv3weH.png" height="80%" width="80%" alt="New agents"/>
 </p>
 <p>
-<h3> Step 6: Configure Users </h3> Next, we will configure the users, who simply put, are the people opening tickets. To add users, switch to the "Agent Panel". Under "Users", click "Creat New User". Name the first user "Karen Karen" with an email of "Karen@osticket.com", and "Add User". We will now add one more user. Following the same steps with the name Ken.
+<h3> Step 6: Configure Users </h3> Next, we will configure the users, who simply put, are the people opening tickets. To add users, switch to the "Agent Panel". Under "Users", click "Create New User". Name the first user "Karen Karen" with an email of "Karen@osticket.com", and "Add User". We will now add one more user. Following the same steps with the name Ken.
 </p>
 <br />
 <img src="https://i.imgur.com/GFUOmmu.png" height="80%" width="80%" alt="New Users"/>
